@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcms_pyme_strapi=self.webpackChunkcms_pyme_strapi||[]).push([[4299],{9683:(a,t,e)=>{e.r(t),e.d(t,{default:()=>P});var s=e(67294),_=e(95489),i=e.n(_),E=e(87751),n=e(67375);const P=()=>s.createElement(_.CheckPagePermissions,{permissions:E.Z.settings["api-tokens"].create},s.createElement(n.Z,null))}}]);
