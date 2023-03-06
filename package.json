@@ -10,10 +10,10 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.7.0",
-    "@strapi/plugin-users-permissions": "4.7.0",
-    "@strapi/provider-upload-cloudinary": "^4.7.0",
-    "@strapi/strapi": "4.7.0",
+    "@strapi/plugin-i18n": "4.7.1",
+    "@strapi/plugin-users-permissions": "4.7.1",
+    "@strapi/provider-upload-cloudinary": "4.7.1",
+    "@strapi/strapi": "4.7.1",
     "better-sqlite3": "7.4.6",
     "pg": "8.8.0"
   },
@@ -27,5 +27,8 @@
     "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
 }
